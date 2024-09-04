@@ -55,6 +55,15 @@ git push -u origin main
 git push
 
 
+----------------------
+
+clone 
+- 코드가 없는 상태에서 전체 코드를 다운로드 받을 경우
+
+git clone url 디렉토리
+git clone url
+
+
 
 
 
