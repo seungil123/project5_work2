@@ -80,6 +80,22 @@ git switch test01
 
 
 ----------------------
+브랜치 병합
+-main에서(main으로 코드 합류)
+git merge 브랜치명
+git add .
+git commit -m "메시지"
+
+브랜치 삭제
+git branch -d 브랜치명
+
+브랜치 복구
+git branch 브랜치명 커밋번호
+
+git log --graph --oneline
+-----------------------------------
+  
+
 팀으로 작업하기
 
 - collaborators 등록해서
